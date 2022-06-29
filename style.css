@@ -5,3 +5,12 @@ h1 {
 p {
     font-family: serif;
 }
+
+#Lebenslauf thead {
+    background-color: aquamarine;
+}
+
+#Lebenslauf {
+    border-spacing: 0px;
+}
+
