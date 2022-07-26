@@ -14,3 +14,6 @@ p {
     border-spacing: 0px;
 }
 
+tr th {
+    background-color: brown;
+}
